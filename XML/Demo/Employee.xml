@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="Emp.xsd">
+  <EmployeeDetails EmployeeID="12345">
+    <EmployeeName>Ajay</EmployeeName>
+    <Age>34</Age>
+    <Phone>9087654321</Phone>
+    <City>Mumbai</City>
+    <DOJ>2015-02-02</DOJ>
+  </EmployeeDetails>
+  <EmployeeDetails EmployeeID="12346">
+    <EmployeeName>Rahul</EmployeeName>
+    <Age>24</Age>
+    <Phone>9087564321</Phone>
+    <City>Pune</City>
+    <DOJ>2018-01-22</DOJ>
+  </EmployeeDetails>
+</Employees>
